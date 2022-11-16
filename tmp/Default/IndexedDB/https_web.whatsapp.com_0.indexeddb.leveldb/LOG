@@ -1,0 +1,31 @@
+2022/11/16-18:27:47.005 2fc8 Creating DB E:\comorins\Nodejs\WhatsApp-Integration-in-React-Node\tmp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/11/16-18:27:47.091 2fc8 Reusing MANIFEST E:\comorins\Nodejs\WhatsApp-Integration-in-React-Node\tmp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/16-18:27:47.585 3d78 Level-0 table #5: started
+2022/11/16-18:27:47.648 3d78 Level-0 table #5: 7366 bytes OK
+2022/11/16-18:27:47.924 3d78 Delete type=0 #3
+2022/11/16-18:27:47.927 3d78 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/11/16-18:28:14.480 1ad4 Level-0 table #7: started
+2022/11/16-18:28:14.667 1ad4 Level-0 table #7: 1070828 bytes OK
+2022/11/16-18:28:14.721 1ad4 Delete type=0 #4
+2022/11/16-18:28:18.688 1ad4 Level-0 table #9: started
+2022/11/16-18:28:18.799 1ad4 Level-0 table #9: 1340538 bytes OK
+2022/11/16-18:28:18.830 1ad4 Delete type=0 #6
+2022/11/16-18:28:18.837 1ad4 Compacting 1@0 + 1@1 files
+2022/11/16-18:28:19.071 1ad4 Generated table #10@0: 45585 keys, 1703454 bytes
+2022/11/16-18:28:19.071 1ad4 Compacted 1@0 + 1@1 files => 1703454 bytes
+2022/11/16-18:28:19.127 1ad4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/11/16-18:28:19.127 1ad4 Delete type=2 #9
+2022/11/16-18:28:21.352 2fc8 Level-0 table #12: started
+2022/11/16-18:28:21.469 2fc8 Level-0 table #12: 1432478 bytes OK
+2022/11/16-18:28:21.502 2fc8 Delete type=2 #7
+2022/11/16-18:28:21.502 2fc8 Delete type=0 #8
+2022/11/16-18:28:21.509 1ad4 Compacting 1@0 + 1@1 files
+2022/11/16-18:28:21.781 1ad4 Generated table #13@0: 53500 keys, 2218423 bytes
+2022/11/16-18:28:21.845 1ad4 Generated table #14@0: 7286 keys, 489157 bytes
+2022/11/16-18:28:21.845 1ad4 Compacted 1@0 + 1@1 files => 2707580 bytes
+2022/11/16-18:28:21.883 1ad4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/11/16-18:28:27.066 3b90 Level-0 table #16: started
+2022/11/16-18:28:27.250 3b90 Level-0 table #16: 1065744 bytes OK
+2022/11/16-18:28:27.269 3b90 Delete type=2 #10
+2022/11/16-18:28:27.269 3b90 Delete type=0 #11
+2022/11/16-18:28:27.269 3b90 Delete type=2 #12
